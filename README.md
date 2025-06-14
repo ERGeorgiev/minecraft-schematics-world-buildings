@@ -1,4 +1,4 @@
-# 🌍 Minecraft Schematics – World Buildings
+# 🌍 Minecraft Schematics – World Structures
 
 A community-driven archive of **Minecraft schematics** representing **real-world structures**.
 
