@@ -38,6 +38,7 @@ Want to add a schematic? Contributions are welcome!
   - The year in the filename represents the year which the file represents
 - Add a screenshot (`structure-name_year.png`), or a collage of screenshots
 - Open a pull request with a brief description of the structure
+- Add a google maps link to the place in your PR and last commit.
 
 ### Filename Guidelines:
 - Use lowercase with dashes and underscores as in `structure-name_year.schem`
