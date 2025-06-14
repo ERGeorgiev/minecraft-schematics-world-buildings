@@ -34,13 +34,13 @@ Want to add a schematic? Contributions are welcome!
 
 ### How to Contribute:
 - Fork this repository
-- Add your `country-city_structure-name_year.schem` file to the correct folder
+- Add your `structure-name_year.schem` file to the correct folder
   - The year in the filename represents the year which the file represents
-- Add a screenshot (`country-city_structure-name_year.png`), or a collage of screenshots
+- Add a screenshot (`structure-name_year.png`), or a collage of screenshots
 - Open a pull request with a brief description of the structure
 
 ### Filename Guidelines:
-- Use lowercase with dashes and underscores as in `country-city_structure-name_year.schem`
+- Use lowercase with dashes and underscores as in `structure-name_year.schem`
 - If the file already exists, use any of:
-  -  `country-city_structure-name_year-month.schem`
-  -  `country-city_structure-name_year-month-day.schem`
+  -  `structure-name_year-month.schem`
+  -  `structure-name_year-month-day.schem`
