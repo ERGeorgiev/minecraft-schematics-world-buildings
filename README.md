@@ -33,6 +33,8 @@ To load a schematic in-game:
 //paste
 ```
 
+For maximum compatibility, ensure you're using the latest Minecraft version.
+
 ## 🤝 Contributing
 
 Want to add a schematic? Contributions are welcome!
