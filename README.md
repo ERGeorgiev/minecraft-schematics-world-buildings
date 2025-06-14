@@ -10,9 +10,6 @@ You can use the `.schem` files with any of the following:
 
 - [FastAsyncWorldEdit (FAWE)](https://github.com/IntellectualSites/FastAsyncWorldEdit)
 - [WorldEdit (1.13+)](https://enginehub.org/worldedit)
-- [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
-- [Amulet Editor](https://www.amuletmc.com/)
-- [MCStructure Tool (for conversion)](https://github.com/Nixinova/MCStructure)
 
 To load a schematic in-game:
 
